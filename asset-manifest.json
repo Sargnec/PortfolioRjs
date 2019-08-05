@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PortfolioRjs/static/css/main.dfe02fe3.chunk.css",
+    "main.js": "/PortfolioRjs/static/js/main.e8ada4d1.chunk.js",
+    "main.js.map": "/PortfolioRjs/static/js/main.e8ada4d1.chunk.js.map",
+    "runtime~main.js": "/PortfolioRjs/static/js/runtime~main.753fa691.js",
+    "runtime~main.js.map": "/PortfolioRjs/static/js/runtime~main.753fa691.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/PortfolioRjs/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.a437ad5d.chunk.js": "/PortfolioRjs/static/js/2.a437ad5d.chunk.js",
+    "static/js/2.a437ad5d.chunk.js.map": "/PortfolioRjs/static/js/2.a437ad5d.chunk.js.map",
+    "index.html": "/PortfolioRjs/index.html",
+    "precache-manifest.9b16c4f110cf13d789bc77c237c3588d.js": "/PortfolioRjs/precache-manifest.9b16c4f110cf13d789bc77c237c3588d.js",
+    "service-worker.js": "/PortfolioRjs/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/PortfolioRjs/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.dfe02fe3.chunk.css.map": "/PortfolioRjs/static/css/main.dfe02fe3.chunk.css.map"
+  }
+}
